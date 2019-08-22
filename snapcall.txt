@@ -1,0 +1,9 @@
+[CATEGORIES]Emergency,Taxis,Fast Food Delivery,Telco
+
+[Emergency]Emergency Ambulance & Fire:|995
+
+[Emergency]Non-Emergency Ambulance:|1777
+
+[Taxis]Taxi Lost & Found|1800 225 5582
+
+[Taxis]Comfort Taxi|6552 1111
